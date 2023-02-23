@@ -1,10 +1,7 @@
-build msm
-============
+fast\.msm_gen
+===============
 
-Submodules
-----------
-
-fast.msm_gen.clustering module
+fast\.msm_gen\.clustering module
 ----------------------------------------
 
 .. automodule:: fast.msm_gen.clustering
@@ -12,18 +9,10 @@ fast.msm_gen.clustering module
    :undoc-members:
    :show-inheritance:
 
-fast.msm_gen.save_states module
+fast\.msm_gen\.save_states module
 -----------------------------------------
 
 .. automodule:: fast.msm_gen.save_states
-   :members:
-   :undoc-members:
-   :show-inheritance:
-
-Module contents
------------------------
-
-.. automodule:: msm_gen 
    :members:
    :undoc-members:
    :show-inheritance:

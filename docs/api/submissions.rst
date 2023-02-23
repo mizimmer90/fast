@@ -1,18 +1,15 @@
-HPC computing
-============
+fast\.submissions
+===================
 
-Submodules
-----------
-
-fast.submissions.lsf_subs module
---------------------------------
+fast\.submissions\.lsf_subs module
+------------------------------------
 
 .. automodule:: fast.submissions.lsf_subs
    :members:
    :undoc-members:
    :show-inheritance:
 
-fast.submissions.os_sub module
+fast\.submissions\.os_sub module
 ---------------------------------
 
 .. automodule:: fast.submissions.os_sub
@@ -20,7 +17,7 @@ fast.submissions.os_sub module
    :undoc-members:
    :show-inheritance:
 
-fast.submissions.slurm_subs module
+fast\.submissions\.slurm_subs module
 --------------------------------------
 
 .. automodule:: fast.submissions.slurm_subs
@@ -28,10 +25,3 @@ fast.submissions.slurm_subs module
    :undoc-members:
    :show-inheritance:
 
-Module contents
----------------
-
-.. automodule:: submissions
-   :members:
-   :undoc-members:
-   :show-inheritance:
