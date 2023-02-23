@@ -5,7 +5,7 @@ build:
   image: latest
 
 conda:
-  environment: docs/requirements.yml
+  environment: 
 
 python:
   version: 3.7
