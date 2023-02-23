@@ -4,9 +4,6 @@ version: 1
 build:
   image: latest
 
-conda:
-  environment: 
-
 python:
   version: 3.7
   install:
