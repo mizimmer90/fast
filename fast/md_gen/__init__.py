@@ -1,1 +1,1 @@
-from . import gromax, upside
+from . import gromax
