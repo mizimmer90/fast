@@ -1,4 +1,4 @@
-simulation_prep
+Simulation Prep
 ===============
 
 Running adaptive sampling requires some prepared inputs beforehand.
