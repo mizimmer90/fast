@@ -3,8 +3,11 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to fast's documentation!
-================================
+FAST: Adaptive sampling made easy!
+==================================
+
+This python library is a collection of tools to run various adaptive sampling
+schemes, such as Fluctuation Amplification of Specific Traits (FAST).
 
 .. toctree::
    :maxdepth: 2

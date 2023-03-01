@@ -1,4 +1,4 @@
-installation
+Installation
 ===============
 
 Go to the directory where you would like to install fast and clone repo::
